@@ -3,7 +3,7 @@ contract Ballot {
 
     struct Voter {
         uint weight;
-        bool yeaah;
+        bool youhouh;
         bool voted;
         uint8 vote;
         address delegate;
